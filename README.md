@@ -39,5 +39,3 @@ Il ne s’agit pas d’une analyse métier des vols, mais d’un **notebook péd
 Un histogramme illustrant la répartition du volume des vols par compagnie aérienne :
 
 ![Histogramme des compagnies aériennes](screenshot.png)
-
-> Placez une capture de votre graphique dans le repo en la nommant `screenshot.png` (ou mettez le chemin correspondant).
